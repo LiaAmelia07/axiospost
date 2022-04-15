@@ -5,5 +5,10 @@
             "username": "liaameliaa@gmail.com",
             "password":"liaamelia123"
         },
+        {
+            "id": 2,
+            "username": "guru@gmail.com",
+            "password":"admin123"
+        }
     ]
 }
